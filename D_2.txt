@@ -1,3 +1,5 @@
 fixed 1 bug in D_2.
 fixed 2 bug in D_2.
 I'm current in market branch.
+
+fixed. the 2 nd.
