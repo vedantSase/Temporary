@@ -1,1 +1,3 @@
 fixing 1st bug in D_1.
+
+fixing 2nd bug in D_1.
